@@ -8,17 +8,17 @@ h1{ margin-left: auto;
     color: black;
     background-color: palevioletred;
     text-align: center;
-    margin-top: -10px;
+    margin-top: -40px;
     padding: 40px;
-    /* margin-left: -8px;
-    margin-right: -8px; */
+     margin-left: -8px;
+    margin-right: -8px; 
 }
 .keys{
-    
-    word-spacing: 80px;
-    
+    margin-top: -34px;
+    margin-left: -8px;
+    margin-right: -8px;
+    word-spacing: 230px;
+    color: black;
     font-size: 25px;
-}
-.a{
-
+    background-color:palevioletred ;
 }
