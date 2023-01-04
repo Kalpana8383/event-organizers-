@@ -20,6 +20,17 @@ h1{ margin-left: auto;
     word-spacing: 230px;
     color: black;
     font-size: 25px;
-    background-color:palevioletred ;
+    background-color:rgb(240, 167, 191) ;
     
+}
+h2{
+    
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    
+}
+.ser{
+    background-color: rgb(235, 241, 186);
 }
