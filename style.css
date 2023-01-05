@@ -32,5 +32,8 @@ h2{
     
 }
 .ser{
-    background-color: rgb(235, 241, 186);
+    background-color: rgb(239, 232, 98);
+}
+.img{
+    border-radius: 30px;
 }
