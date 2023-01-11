@@ -1,24 +1,111 @@
-.body{
-    background-color: gray;
-}
-
 h1{ margin-left: auto;
     margin-right: auto;
     font-size: 50px;
-    color: black;
-    background-color: palevioletred;
+    color: white;
     text-align: center;
     margin-top: -40px;
     padding: 40px;
-     margin-left: -8px;
+    margin-left: -8px;
     margin-right: -8px; 
+    background-color: black;
+     
+    
 }
-/*.keys{
+.keys{
     margin-top: -34px;
     margin-left: -8px;
     margin-right: -8px;
     word-spacing: 230px;
-    color: black;
     font-size: 25px;
-    background-color:palevioletred ;
+    background-color: black;
+}a:hover{color: coral;
+
+}
+a{
+    color: white;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+.book-button{
+      height: 50px;
+      width: 220px;
+      transition: all .5s ease;
+      border-radius: 20px;
+      margin-top: 80px;
+      margin-left: 500px;
+      background-color: rgb(212, 206, 206) ;
+      color: white;
+      border: 1px solid white;
+}
+.book-button:hover{color: blueviolet;
+background-color: rgb(215, 197, 231);
+border: 1px solid purple;
+}
+.send-button{
+    height: 50px;
+    width: 507px;
+    font-size: 30px;
+    background-color: orangered;
+    border: 1px solid orangered;
+    color: orange;
+}
+.contact{
+    font-size: 20px;
+    color: black;
+    opacity: 0.5;
+}
+.ss{
+    color: white;
+    font-size: 50px;
+    margin-left: 90px;
+    margin-top: 180px;
+    font-family: 'Rubik', sans-serif; 
+    font-weight: 800;
+}
+.ww{
+    font-size: 30px;
+    opacity: 0.8;
+    
+}
+.w {
+    margin-left: 4000px;
+    
+}
+img{
+    /* border: 1px solid red; */
+    box-shadow: 0 0 1.5rem rgba(0, 0 , 0, 0.5);
+    font-size: 40px;
+}
+.container{
+    position: relative;
+    text-align: center;
+    color:orangered;
+}.l{
+    position: absolute;
+    top: 30%;
+    right: 0px;
+    font-family: cursive;
+    
+}.o{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    font-size: 40px;
+}.p{
+    background-color: darkgrey;
+}.s{
+    font-size: 32px;
+    margin-left: 2px;
+    color: blanchedalmond;
+}.contact-para{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}.contact-form{
+    margin-left: 50px;
+    
+}.contact-table{
+    border-spacing: 100px;
+    border: 1px;
 }
