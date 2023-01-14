@@ -108,4 +108,54 @@ img{
 }.contact-table{
     border-spacing: 100px;
     border: 1px;
+} 
+.img1{
+    
+    margin-top: 80px;
+    margin-bottom: 90px;
+    margin-left: 450px;
 }
+.about img{
+    margin-top: -40px;
+    margin-left: -12px;
+
+}
+.para{
+    font-size: 25px;
+    color: brown;
+    
+    
+}
+.p{
+    font-size: 14px;
+    font-style: normal;
+}
+.vision{ 
+    font-size: 25px;
+    color: rgb(174, 27, 27);
+}
+.what{
+    background-color: rgb(77, 79, 78);
+    color: rgb(232, 147, 98);
+     border: red ;
+}
+.ph{
+    font-size: 15px;
+    font-style: normal;
+    
+}
+.contact{
+  
+   height: 50px;
+   width: 220px;
+   border-radius: 20px;
+   margin-top: -20px;
+   margin-left: 300px;
+   background-color: rgb(186, 168, 88) ;
+   color: rgb(110, 106, 106);
+   border: 1px solid white;
+}
+.contact:hover{color: rgb(19, 169, 149);
+    background-color: rgb(215, 197, 231);
+    border: 1px solid rgb(224, 207, 26);}
+    
