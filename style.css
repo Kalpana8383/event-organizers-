@@ -143,3 +143,49 @@ img{
     color: white;
     border: 1px solid white;
 }
+.img1{
+   padding-left: 380px;
+   margin-bottom: 180px;
+   margin-top: 180px;
+}
+.about img{
+    margin-top: -180px;
+    margin-left:-20px;
+    margin-bottom: -160px;
+    border-bottom: solid rgb(223, 43, 43) 20px;
+    border-top: solid rgb(10, 10, 9) 30px;
+    
+}
+.where{
+    font-size: 25px;
+    color: brown;
+    margin-top: -200px;
+    text-shadow: aqua;
+    text-justify: distribute;   
+}
+.ptext{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.fline{
+    font-size: 20px;
+    background-color: rgb(160, 152, 127);
+     text-align: left;
+}
+
+.con{
+    height: 50px;
+      width: 220px;
+      transition: all .5s ease;
+      border-radius: 20px;
+      margin-top: -80px;
+      margin-left: 500px;
+      background-color: rgb(246, 226, 226) ;
+      color: rgb(206, 93, 93);
+      border: 1px solid rgb(246, 146, 146);
+}
+.con:hover{
+    color: rgb(184, 32, 15);
+background-color: rgb(215, 197, 231);
+border: 1px solid rgb(169, 55, 10);
+}
