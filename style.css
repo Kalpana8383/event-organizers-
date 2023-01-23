@@ -1,4 +1,4 @@
-h1{ margin-left: auto;
+ h1{ margin-left: auto;  
     margin-right: auto;
     font-size: 50px;
     color: white;
@@ -18,11 +18,13 @@ h1{ margin-left: auto;
     word-spacing: 230px;
     font-size: 25px;
     background-color: black;
+    text-decoration: none;
 }a:hover{color: coral;
 
 }
 a{
     color: white;
+    text-decoration: none;
 }
 h2{
     text-align: center;
@@ -50,11 +52,7 @@ border: 1px solid purple;
     background-color: orangered;
     border: 1px solid orangered;
     color: orange;
-}
-.contact{
-    font-size: 20px;
-    color: black;
-    opacity: 0.5;
+
 }
 .ss{
     color: white;
@@ -95,67 +93,53 @@ img{
 }.p{
     background-color: darkgrey;
 }.s{
-    font-size: 32px;
-    margin-left: 2px;
+    font-size: 22px;
     color: blanchedalmond;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }.contact-para{
     text-align: center;
     margin-top: 70px;
     margin-bottom: 20px;
-}.contact-form{
-    margin-left: 50px;
-    
-}.contact-table{
-    border-spacing: 100px;
-    border: 1px;
-} 
-.img1{
-    
-    margin-top: 80px;
-    margin-bottom: 90px;
-    margin-left: 450px;
-}
-.about img{
-    margin-top: -40px;
-    margin-left: -12px;
 
-}
-.para{
-    font-size: 25px;
-    color: brown;
     
-    
-}
-.p{
-    font-size: 14px;
-    font-style: normal;
-}
-.vision{ 
-    font-size: 25px;
-    color: rgb(174, 27, 27);
-}
-.what{
-    background-color: rgb(77, 79, 78);
-    color: rgb(232, 147, 98);
-     border: red ;
-}
-.ph{
-    font-size: 15px;
-    font-style: normal;
-    
-}
-.contact{
-  
-   height: 50px;
-   width: 220px;
-   border-radius: 20px;
-   margin-top: -20px;
-   margin-left: 300px;
-   background-color: rgb(186, 168, 88) ;
-   color: rgb(110, 106, 106);
-   border: 1px solid white;
-}
-.contact:hover{color: rgb(19, 169, 149);
+
+}.wedd-para {
+    font-size: 22px;
+    opacity: 0.5;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}.table-space{
+    border-spacing: 50px;
+}.wedd-line{
+    font-size: 38px;
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+    margin-bottom: 150px;
+}.book-now{
+    margin-left: 500px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    width: 300px;
+    height: 55px;
+    font-size: 20px;
+    background-color:orange;
+    border: 1px solid orangered;
+}.book-now:hover{color: blueviolet;
     background-color: rgb(215, 197, 231);
-    border: 1px solid rgb(224, 207, 26);}
-    
+    border: 1px solid purple;
+}.table-space2{
+        border-spacing: 30px;
+}.copy-right{
+    color: bisque;
+    margin-left: 20px;
+    margin-top: 0px;
+    font-size: 13px;
+}.know-more-button{
+    height: 50px;
+    width: 220px;
+    transition: all .5s ease;
+    margin-top: 20px;
+    background-color: rgb(219, 168, 196) ;
+    color: white;
+    border: 1px solid white;
+}
